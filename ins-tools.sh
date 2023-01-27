@@ -13,7 +13,7 @@ cd overload/
 pip install -r requirements.txt
 cd /home/kali
 ls -l
-git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
+git clone https://github.com/dalunacrobate/DaProfiler.git
 d DaProfiler
 pip install -r requirements.txt
 cd /home/kali
