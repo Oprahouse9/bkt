@@ -12,7 +12,7 @@ pip install -r requirements.txt
 cd /home/kali
 ls -l
 git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
-cd DaProfiler
+d DaProfiler
 pip install -r requirements.txt
 cd /home/kali
 ls -l
@@ -51,6 +51,7 @@ ls -l
 git clone https://github.com/Oprahouse9/car-osint.git
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
 git clone https://github.com/Oprahouse9/msf-apk.git
+git clone https://github.com/alpkeskin/mosint.git
 sudo apt install spiderfoot theharvester metasploit-framework
 sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock exploitdb
 pip install autopwn-suite h8mail
