@@ -1,8 +1,6 @@
 sudo apt update
 sudo apt install python3
 sudo apt install pip
-sudo apt install xfce4 xfce4-terminal xfce4-whiskermenu-plugin
-sudo apt install firefox-esr kali-themes dbus-x11 tigervnc-standalone-server
 git clone https://github.com/nitefood/asn.git
 cd asn
 sudo apt install jq mtr whois ipcalc grepcidr ncat aha
