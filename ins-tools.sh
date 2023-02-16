@@ -48,6 +48,11 @@ cd NmapScan
 pip install -r requirements.txt
 cd /home/kali
 ls -l
+git clone https://github.com/Oprahouse9/Profiler.git
+cd Profiler
+pip install -r requirements.txt
+cd /home/kali
+ls -l
 git clone https://github.com/Oprahouse9/car-osint.git
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
 git clone https://github.com/Oprahouse9/msf-apk.git
