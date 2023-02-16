@@ -11,11 +11,6 @@ cd overload/
 pip install -r requirements.txt
 cd /home/kali
 ls -l
-git clone https://github.com/dalunacrobate/DaProfiler.git
-d DaProfiler
-pip install -r requirements.txt
-cd /home/kali
-ls -l
 git clone https://github.com/AngelSecurityTeam/Cam-Hackers
 cd Cam-Hackers
 pip install -r requirements.txt
@@ -50,8 +45,7 @@ cd /home/kali
 ls -l
 git clone https://github.com/Oprahouse9/car-osint.git
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
-git clone https://github.com/Oprahouse9/msf-apk.git
-git clone https://github.com/alpkeskin/mosint.git
+git clone https://github.com/Oprahouse9/msf-apk.g
 sudo apt install spiderfoot theharvester metasploit-framework set
 sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock exploitdb
 pip install autopwn-suite h8mail
