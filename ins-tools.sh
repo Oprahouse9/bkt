@@ -45,7 +45,7 @@ cd /home/kali
 ls -l
 git clone https://github.com/Oprahouse9/car-osint.git
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
-git clone https://github.com/Oprahouse9/msf-apk.g
+git clone https://github.com/Oprahouse9/msf-apk.git
 sudo apt install spiderfoot theharvester metasploit-framework set
 sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock exploitdb
 pip install autopwn-suite h8mail
