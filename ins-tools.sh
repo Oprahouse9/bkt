@@ -42,6 +42,11 @@ cd Profiler
 pip install -r requirements.txt
 cd /home/kali
 ls -l
+git clone https://github.com/Oprahouse9/FindbyPlate.git
+cd FindbyPlate
+pip install -r requirements.txt 
+cd /home/kali
+ls -l
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
 git clone https://github.com/Oprahouse9/msf-apk.git
 sudo apt install spiderfoot theharvester metasploit-framework set
