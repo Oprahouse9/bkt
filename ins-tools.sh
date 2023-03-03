@@ -1,4 +1,5 @@
 sudo apt update
+2sdo apt upgrade
 sudo apt install python3
 sudo apt install pip
 git clone https://github.com/nitefood/asn.git
