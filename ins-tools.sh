@@ -6,11 +6,6 @@ cd asn
 sudo apt install jq mtr whois ipcalc grepcidr ncat aha
 cd /home/kali
 ls -l
-git clone https://github.com/7zx/overload
-cd overload/
-pip install -r requirements.txt
-cd /home/kali
-ls -l
 git clone https://github.com/AngelSecurityTeam/Cam-Hackers
 cd Cam-Hackers
 pip install -r requirements.txt
@@ -29,13 +24,7 @@ cd blackbird
 pip install -r requirements.txt
 cd /home/kali
 ls -l
-git clone https://github.com/maari-krish/Email-scan.git
-ls -l
 git clone https://github.com/CodeX-ID/Temp-mail
-ls -l
-git clone https://github.com/hackerxphantom/xransom
-cd xransom
-bash install.sh
 cd /home/kali
 ls -l
 git clone https://github.com/Oprahouse9/botnet.git
@@ -53,7 +42,6 @@ cd Profiler
 pip install -r requirements.txt
 cd /home/kali
 ls -l
-git clone https://github.com/Oprahouse9/car-osint.git
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
 git clone https://github.com/Oprahouse9/msf-apk.git
 sudo apt install spiderfoot theharvester metasploit-framework set
