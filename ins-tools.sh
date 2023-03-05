@@ -50,7 +50,7 @@ cd /home/kali
 ls -l
 git clone https://github.com/TechnoFuge/PhoneInfoga.git
 git clone https://github.com/Oprahouse9/msf-apk.git
-sudo apt install spiderfoot theharvester metasploit-framework set
-sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock exploitdb
+sudo apt install spiderfoot theharvester set
+sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock
 pip install autopwn-suite h8mail
 sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo bash
