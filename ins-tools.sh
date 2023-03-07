@@ -12,12 +12,6 @@ cd Cam-Hackers
 pip install -r requirements.txt
 cd /home/kali
 ls -l
-git clone https://github.com/beefproject/beef.git
-cd beef
-nano config.yaml
-./install
-cd /home/kali
-ls -l
 git clone https://github.com/maari-krish/Vpn-Detector.git
 ls -l
 git clone https://github.com/p1ngul1n0/blackbird
@@ -54,3 +48,9 @@ sudo apt install spiderfoot theharvester set
 sudo apt install wafw00f knockpy dnsrecon dnsenum sherlock
 pip install autopwn-suite h8mail
 sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo bash
+git clone https://github.com/beefproject/beef.git
+cd beef
+nano config.yaml
+./install
+cd /home/kali
+ls -l
